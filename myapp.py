@@ -429,3 +429,4 @@ Guidelines:
                     
                     except Exception as e:
                         st.error(f"❌ Error generating response: {e}")
+
